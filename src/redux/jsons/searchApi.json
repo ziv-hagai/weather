@@ -1,0 +1,47 @@
+[
+    {
+        "Version": 1,
+        "Key": "182536",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Athens",
+        "Country": {
+            "ID": "GR",
+            "LocalizedName": "Greece"
+        },
+        "AdministrativeArea": {
+            "ID": "I",
+            "LocalizedName": "Attica"
+        }
+    },
+    {
+        "Version": 1,
+        "Key": "508163",
+        "Type": "City",
+        "Rank": 45,
+        "LocalizedName": "Ath Thuqbah",
+        "Country": {
+            "ID": "SA",
+            "LocalizedName": "Saudi Arabia"
+        },
+        "AdministrativeArea": {
+            "ID": "04",
+            "LocalizedName": "Eastern"
+        }
+    },
+    {
+        "Version": 1,
+        "Key": "328217",
+        "Type": "City",
+        "Rank": 45,
+        "LocalizedName": "Athens",
+        "Country": {
+            "ID": "US",
+            "LocalizedName": "United States"
+        },
+        "AdministrativeArea": {
+            "ID": "GA",
+            "LocalizedName": "Georgia"
+        }
+    }
+]

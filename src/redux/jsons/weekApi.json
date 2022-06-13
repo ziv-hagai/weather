@@ -1,0 +1,180 @@
+{
+    "Headline": {
+        "EffectiveDate": "2022-05-25T01:00:00+10:00",
+        "EffectiveEpochDate": 1653404400,
+        "Severity": 3,
+        "Text": "Expect showery weather late Tuesday night through late Wednesday night",
+        "Category": "rain",
+        "EndDate": "2022-05-26T07:00:00+10:00",
+        "EndEpochDate": 1653512400,
+        "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2022-05-25T07:00:00+10:00",
+            "EpochDate": 1653426000,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 15.6,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 22.2,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 12,
+                "IconPhrase": "Showers",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light"
+            },
+            "Night": {
+                "Icon": 18,
+                "IconPhrase": "Rain",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=1&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=1&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2022-05-26T07:00:00+10:00",
+            "EpochDate": 1653512400,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 15,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 22.2,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 12,
+                "IconPhrase": "Showers",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Night": {
+                "Icon": 18,
+                "IconPhrase": "Rain",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=2&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=2&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2022-05-27T07:00:00+10:00",
+            "EpochDate": 1653598800,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 14.7,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 22.9,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 4,
+                "IconPhrase": "Intermittent clouds",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Night": {
+                "Icon": 33,
+                "IconPhrase": "Clear",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=3&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=3&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2022-05-28T07:00:00+10:00",
+            "EpochDate": 1653685200,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 14.7,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 23.9,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 2,
+                "IconPhrase": "Mostly sunny",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 34,
+                "IconPhrase": "Mostly clear",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=4&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=4&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2022-05-29T07:00:00+10:00",
+            "EpochDate": 1653771600,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 12.8,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 21.7,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 6,
+                "IconPhrase": "Mostly cloudy",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 35,
+                "IconPhrase": "Partly cloudy",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=5&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/au/newmarket/18536/daily-weather-forecast/18536?day=5&unit=c&lang=en-us"
+        }
+    ]
+}

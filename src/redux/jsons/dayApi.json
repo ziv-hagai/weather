@@ -1,0 +1,25 @@
+[
+    {
+        "LocalObservationDateTime": "2022-05-24T00:30:00+10:00",
+        "EpochTime": 1653316200,
+        "WeatherText": "Light rain shower",
+        "WeatherIcon": 12,
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "IsDayTime": false,
+        "Temperature": {
+            "Metric": {
+                "Value": 16.4,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Imperial": {
+                "Value": 62,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "MobileLink": "http://www.accuweather.com/en/au/newmarket/18536/current-weather/18536?lang=en-us",
+        "Link": "http://www.accuweather.com/en/au/newmarket/18536/current-weather/18536?lang=en-us"
+    }
+]
