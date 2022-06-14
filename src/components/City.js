@@ -2,7 +2,7 @@ import React from "react";
 import { connect } from 'react-redux';
 import { getLocal } from '../redux/actions';
 import { BsHeartFill, BsHeart } from 'react-icons/bs';
-import { IconCheckbox } from "react-icon-checkbox";
+// import { IconCheckbox } from "react-icon-checkbox";
 
 class City extends React.Component {
     constructor(props) {
@@ -63,11 +63,11 @@ class City extends React.Component {
     render() {
         return (
             <div className="city">
-                <IconCheckbox
+                {/* <IconCheckbox
                     checked={this.state.isFav}
                     checkedIcon={<BsHeartFill className='heart' type="heart" />}
                     uncheckedIcon={<BsHeart className='heart' type="heart-o" />}
-                    onClick={this.changeFav} />
+                    onClick={this.changeFav} /> */}
                 <h1>{this.props.name}</h1>
 
                 <img src={this.props.img} />
@@ -93,4 +93,6 @@ const mapDispatchToProps = (dispatch) => {
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(City)
+
+// "react-icon-checkbox": "^1.0.1",
 
