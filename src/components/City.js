@@ -3,6 +3,10 @@ import { connect } from 'react-redux';
 import { getLocal } from '../redux/actions';
 // import { BsHeartFill, BsHeart } from 'react-icons/bs';
 // import { IconCheckbox } from "react-icon-checkbox";
+import Checkbox from '@mui/material/Checkbox';
+import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
+import Favorite from '@mui/icons-material/Favorite';
+const label = { inputProps: { 'aria-label': 'Checkbox demo' } };
 
 class City extends React.Component {
     constructor(props) {
@@ -68,6 +72,8 @@ class City extends React.Component {
                     checkedIcon={<BsHeartFill className='heart' type="heart" />}
                     uncheckedIcon={<BsHeart className='heart' type="heart-o" />}
                     onClick={this.changeFav} /> */}
+                <Checkbox {...label} icon={<FavoriteBorder />} checkedIcon={<Favorite />} checked={this.state.isFav} onChange={this.changeFav} />
+
                 <h1>{this.props.name}</h1>
 
                 <img src={this.props.img} />
