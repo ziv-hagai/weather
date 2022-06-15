@@ -101,4 +101,5 @@ const mapDispatchToProps = (dispatch) => {
 export default connect(mapStateToProps, mapDispatchToProps)(City)
 
 // "react-icon-checkbox": "^1.0.1",
+// "react-icons": "^4.4.0",
 
